@@ -312,19 +312,19 @@
       <HintPath>D:\A_Software\UnityEdit\2022.3.17f1c1\Editor\Data\PlaybackEngines\WindowsStandaloneSupport\UnityEditor.WindowsStandalone.Extensions.dll</HintPath>
     </Reference>
     <Reference Include="nunit.framework">
-      <HintPath>E:\A_Data\2024UnityProject\GF\Library\PackageCache\com.unity.ext.nunit@1.0.6\net35\unity-custom\nunit.framework.dll</HintPath>
+      <HintPath>E:\A_Data\GF\Library\PackageCache\com.unity.ext.nunit@1.0.6\net35\unity-custom\nunit.framework.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Burst.Cecil">
-      <HintPath>E:\A_Data\2024UnityProject\GF\Library\PackageCache\com.unity.burst@1.8.11\Unity.Burst.CodeGen\Unity.Burst.Cecil.dll</HintPath>
+      <HintPath>E:\A_Data\GF\Library\PackageCache\com.unity.burst@1.8.11\Unity.Burst.CodeGen\Unity.Burst.Cecil.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Burst.Cecil.Rocks">
-      <HintPath>E:\A_Data\2024UnityProject\GF\Library\PackageCache\com.unity.burst@1.8.11\Unity.Burst.CodeGen\Unity.Burst.Cecil.Rocks.dll</HintPath>
+      <HintPath>E:\A_Data\GF\Library\PackageCache\com.unity.burst@1.8.11\Unity.Burst.CodeGen\Unity.Burst.Cecil.Rocks.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Burst.Cecil.Pdb">
-      <HintPath>E:\A_Data\2024UnityProject\GF\Library\PackageCache\com.unity.burst@1.8.11\Unity.Burst.CodeGen\Unity.Burst.Cecil.Pdb.dll</HintPath>
+      <HintPath>E:\A_Data\GF\Library\PackageCache\com.unity.burst@1.8.11\Unity.Burst.CodeGen\Unity.Burst.Cecil.Pdb.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Burst.Cecil.Mdb">
-      <HintPath>E:\A_Data\2024UnityProject\GF\Library\PackageCache\com.unity.burst@1.8.11\Unity.Burst.CodeGen\Unity.Burst.Cecil.Mdb.dll</HintPath>
+      <HintPath>E:\A_Data\GF\Library\PackageCache\com.unity.burst@1.8.11\Unity.Burst.CodeGen\Unity.Burst.Cecil.Mdb.dll</HintPath>
     </Reference>
     <Reference Include="mscorlib">
       <HintPath>D:\A_Software\UnityEdit\2022.3.17f1c1\Editor\Data\UnityReferenceAssemblies\unity-4.8-api\mscorlib.dll</HintPath>
